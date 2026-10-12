@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">MatchAll — Learn, build, share</title>
+  <desc id="desc">A blue and teal banner for Maximora-byte, with an original connected-path illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d172b"/>
+      <stop offset="0.58" stop-color="#123047"/>
+      <stop offset="1" stop-color="#11534e"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9ac4d7" stroke-opacity="0.08"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="1160" cy="-20" r="235" fill="#5eead4" opacity="0.045"/>
+    <circle cx="1160" cy="-20" r="160" fill="none" stroke="#5eead4" stroke-opacity="0.13"/>
+    <path d="M0 293C260 258 351 352 607 304S964 276 1200 226V320H0Z" fill="#60a5fa" opacity="0.065"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="62" y="64" fill="#99c7d7" font-size="19" font-weight="600" letter-spacing="4">MAXIMORA-BYTE</text>
+      <text x="59" y="168" fill="#f5fbff" font-size="88" font-weight="700" letter-spacing="-3">MatchAll<tspan fill="#5eead4">.</tspan></text>
+      <text x="64" y="215" fill="#b8d5e0" font-size="26" font-weight="400">Learn. Build. Share.</text>
+      <rect x="64" y="254" width="45" height="4" rx="2" fill="#60a5fa"/>
+      <rect x="116" y="254" width="26" height="4" rx="2" fill="#5eead4"/>
+    </g>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="769" y="61" width="327" height="204" rx="24" fill="#0b1d30" fill-opacity="0.48" stroke="#7bb7c8" stroke-opacity="0.2"/>
+      <path d="M804 226L862 173L917 194L975 126L1058 96" stroke="#6f9cac" stroke-opacity="0.17" stroke-width="18"/>
+      <path d="M804 226L862 173L917 194L975 126L1058 96" stroke="url(#route)" stroke-width="4"/>
+      <path d="M804 91H855M804 104H835M1026 226H1061M1041 213H1061" stroke="#779cab" stroke-opacity="0.38" stroke-width="3"/>
+      <g fill="#123047" stroke="url(#route)" stroke-width="3">
+        <circle cx="804" cy="226" r="8"/>
+        <circle cx="862" cy="173" r="8"/>
+        <circle cx="917" cy="194" r="8"/>
+        <circle cx="975" cy="126" r="8"/>
+      </g>
+      <circle cx="1058" cy="96" r="15" stroke="#5eead4" stroke-opacity="0.28" stroke-width="2"/>
+      <circle cx="1058" cy="96" r="6" fill="#5eead4" stroke="none"/>
+    </g>
+  </g>
+</svg>
