@@ -1,47 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">MatchAll — Learn, build, share</title>
-  <desc id="desc">A blue and teal banner for Maximora-byte, with an original connected-path illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">MatchAll · Maximora-byte</title>
+  <desc id="desc">The original MatchAll geometric M and four-point star in periwinkle and ice cyan, with a white vector wordmark on an ink-dark background.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d172b"/>
-      <stop offset="0.58" stop-color="#123047"/>
-      <stop offset="1" stop-color="#11534e"/>
-    </linearGradient>
-    <linearGradient id="route" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#60a5fa"/>
-      <stop offset="1" stop-color="#5eead4"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#9ac4d7" stroke-opacity="0.08"/>
-    </pattern>
-    <clipPath id="round"><rect width="1200" height="320" rx="24"/></clipPath>
+    <clipPath id="round"><rect width="1200" height="360" rx="24"/></clipPath>
   </defs>
   <g clip-path="url(#round)">
-    <rect width="1200" height="320" fill="url(#background)"/>
-    <rect width="1200" height="320" fill="url(#grid)"/>
-    <circle cx="1160" cy="-20" r="235" fill="#5eead4" opacity="0.045"/>
-    <circle cx="1160" cy="-20" r="160" fill="none" stroke="#5eead4" stroke-opacity="0.13"/>
-    <path d="M0 293C260 258 351 352 607 304S964 276 1200 226V320H0Z" fill="#60a5fa" opacity="0.065"/>
-    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-      <text x="62" y="64" fill="#99c7d7" font-size="19" font-weight="600" letter-spacing="4">MAXIMORA-BYTE</text>
-      <text x="59" y="168" fill="#f5fbff" font-size="88" font-weight="700" letter-spacing="-3">MatchAll<tspan fill="#5eead4">.</tspan></text>
-      <text x="64" y="215" fill="#b8d5e0" font-size="26" font-weight="400">Learn. Build. Share.</text>
-      <rect x="64" y="254" width="45" height="4" rx="2" fill="#60a5fa"/>
-      <rect x="116" y="254" width="26" height="4" rx="2" fill="#5eead4"/>
+    <rect width="1200" height="360" fill="#11141E"/>
+    <path d="M955 0H1200V192Z" fill="#72DDEB" opacity="0.035"/>
+    <path d="M0 223L190 360H0Z" fill="#A69BFF" opacity="0.045"/>
+    <rect x="0.5" y="0.5" width="1199" height="359" rx="23.5" fill="none" stroke="#A69BFF" stroke-opacity="0.14"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="3">
+      <text x="56" y="48" fill="#ADB4C7">MAXIMORA-BYTE / OPEN SOURCE</text>
+      <text x="56" y="323" fill="#ADB4C7">LEARN. BUILD. SHARE.</text>
     </g>
-    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="769" y="61" width="327" height="204" rx="24" fill="#0b1d30" fill-opacity="0.48" stroke="#7bb7c8" stroke-opacity="0.2"/>
-      <path d="M804 226L862 173L917 194L975 126L1058 96" stroke="#6f9cac" stroke-opacity="0.17" stroke-width="18"/>
-      <path d="M804 226L862 173L917 194L975 126L1058 96" stroke="url(#route)" stroke-width="4"/>
-      <path d="M804 91H855M804 104H835M1026 226H1061M1041 213H1061" stroke="#779cab" stroke-opacity="0.38" stroke-width="3"/>
-      <g fill="#123047" stroke="url(#route)" stroke-width="3">
-        <circle cx="804" cy="226" r="8"/>
-        <circle cx="862" cy="173" r="8"/>
-        <circle cx="917" cy="194" r="8"/>
-        <circle cx="975" cy="126" r="8"/>
-      </g>
-      <circle cx="1058" cy="96" r="15" stroke="#5eead4" stroke-opacity="0.28" stroke-width="2"/>
-      <circle cx="1058" cy="96" r="6" fill="#5eead4" stroke="none"/>
-    </g>
+    <path d="M56 290H1144" stroke="#F3F5FA" stroke-opacity="0.09"/>
+    <path d="M1066 319H1100" stroke="#A69BFF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1110 319H1144" stroke="#72DDEB" stroke-width="4" stroke-linecap="round"/>
+    <svg x="150" y="20" width="900" height="275.294117647" viewBox="0 0 850 260">
+<g transform="translate(18 24)"><path d="M38 54 L112 130 L112 172 L70 129 L57 198 L12 198 Z" fill="#A69BFF"/><path d="M112 130 L186 54 L212 198 L167 198 L154 129 L112 172 Z" fill="#72DDEB"/><path d="M211 13 L216 28 L231 33 L216 38 L211 53 L206 38 L191 33 L206 28 Z" fill="#72DDEB"/></g><g transform="translate(284 110) scale(1.222686577320174) translate(-8.0078125 -33.88672)"><path fill="#F3F5FA" d="M87.793 107.91 L72.217 107.91 L72.217 66.016 C72.217 61.491 72.412 56.494 72.803 51.025 L72.412 51.025 C71.598 55.322 70.866 58.415 70.215 60.303 L53.809 107.91 L40.918 107.91 L24.219 60.791 C23.763 59.521 23.031 56.266 22.021 51.025 L21.582 51.025 C22.005 57.926 22.217 63.981 22.217 69.189 L22.217 107.91 L8.008 107.91 L8.008 37.891 L31.104 37.891 L45.41 79.395 C46.549 82.715 47.38 86.051 47.9 89.404 L48.193 89.404 C49.072 85.531 50 82.161 50.977 79.297 L65.283 37.891 L87.793 37.891 Z M143.799 107.91 L129.199 107.91 L129.199 100.732 L129.004 100.732 C125.651 106.331 120.687 109.131 114.111 109.131 C109.261 109.131 105.444 107.756 102.661 105.005 C99.878 102.254 98.486 98.584 98.486 93.994 C98.486 84.294 104.232 78.695 115.723 77.197 L129.297 75.391 C129.297 69.922 126.335 67.188 120.41 67.188 C114.453 67.188 108.789 68.962 103.418 72.51 L103.418 60.889 C105.566 59.782 108.504 58.805 112.231 57.959 C115.959 57.113 119.352 56.689 122.412 56.689 C136.67 56.689 143.799 63.802 143.799 78.027 Z M129.297 87.598 L129.297 84.229 L120.215 85.4 C115.202 86.051 112.695 88.314 112.695 92.188 C112.695 93.945 113.306 95.386 114.526 96.509 C115.747 97.632 117.399 98.193 119.482 98.193 C122.38 98.193 124.74 97.192 126.563 95.19 C128.385 93.188 129.297 90.658 129.297 87.598 Z M186.231 107.324 C183.952 108.529 180.518 109.131 175.928 109.131 C165.055 109.131 159.619 103.483 159.619 92.188 L159.619 69.287 L151.514 69.287 L151.514 57.91 L159.619 57.91 L159.619 47.119 L175 42.725 L175 57.91 L186.231 57.91 L186.231 69.287 L175 69.287 L175 89.502 C175 94.71 177.067 97.314 181.201 97.314 C182.829 97.314 184.505 96.842 186.231 95.898 Z M232.422 106.104 C228.939 108.122 223.91 109.131 217.334 109.131 C209.652 109.131 203.434 106.803 198.682 102.148 C193.929 97.493 191.553 91.488 191.553 84.131 C191.553 75.635 194.1 68.937 199.194 64.038 C204.289 59.139 211.1 56.689 219.629 56.689 C225.521 56.689 229.785 57.471 232.422 59.033 L232.422 72.119 C229.199 69.71 225.602 68.506 221.631 68.506 C217.204 68.506 213.696 69.8 211.108 72.388 C208.521 74.976 207.227 78.548 207.227 83.105 C207.227 87.533 208.464 91.007 210.938 93.53 C213.412 96.053 216.813 97.314 221.143 97.314 C224.984 97.314 228.744 96.11 232.422 93.701 Z M290.527 107.91 L275.147 107.91 L275.147 79.492 C275.147 72.168 272.477 68.506 267.139 68.506 C264.404 68.506 262.191 69.531 260.498 71.582 C258.805 73.633 257.959 76.237 257.959 79.395 L257.959 107.91 L242.529 107.91 L242.529 33.887 L257.959 33.887 L257.959 65.332 L258.154 65.332 C261.93 59.57 267.057 56.689 273.535 56.689 C284.863 56.689 290.527 63.525 290.527 77.197 Z M365.82 107.91 L348.633 107.91 L343.652 92.334 L318.75 92.334 L313.818 107.91 L296.729 107.91 L322.217 37.891 L340.918 37.891 Z M340.039 80.225 L332.52 56.689 C331.966 54.932 331.576 52.832 331.348 50.391 L330.957 50.391 C330.794 52.441 330.387 54.476 329.736 56.494 L322.119 80.225 Z M388.477 107.91 L373.047 107.91 L373.047 33.887 L388.477 33.887 Z M416.895 107.91 L401.465 107.91 L401.465 33.887 L416.895 33.887 Z"/></g>
+    </svg>
   </g>
 </svg>

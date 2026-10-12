@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="MatchAll · Maximora-byte · Learn. Build. Share." width="100%" />
+  <img src="./assets/header.svg" alt="MatchAll 紫青几何 M 与星芒标志 · Maximora-byte" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm MatchAll</h1>
@@ -63,6 +63,8 @@ C/C++ 课程练习与学习交流，按课程和主题整理，方便阅读、�
 
 参考 [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) 的简洁导航、[github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 的信息分区，以及 [capsule-render](https://github.com/kyechan99/capsule-render) 的横幅层级。
 
-页眉为原创静态 SVG，保存在本仓库；未复制上述项目的代码、字体或图形资产。正文使用 GitHub 原生 Markdown，不依赖外部统计或访问计数服务。
+页眉使用 [MatchAll 原始品牌矢量](./assets/matchall-logo-dark.svg)，保留标志轮廓、颜色与比例；背景与版式沿用蓝紫、冰青与深墨色。静态资源保存在本仓库。
+
+上述开源项目仅作布局参考，未复制其代码、字体或图形资产。正文使用 GitHub 原生 Markdown，不依赖外部统计或访问计数服务。
 
 </details>
